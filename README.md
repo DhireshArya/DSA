@@ -8,18 +8,21 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/DhireshArya/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DhireshArya/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DhireshArya/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -40,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
