@@ -1,18 +1,17 @@
 class Solution {
 public:
-    void change(TreeNode* &root){
+    void helper(TreeNode* root){
         if(root==NULL){
             return;
         }
-        swap(root->left, root->right);
-        change(root->left);
-        change(root->right);
+        TreeNode* temp = root->left;
+        root->left = root->right;
+        root->right = temp;
+        helper(root->left);
+        helper(root->right);
     }
     TreeNode* invertTree(TreeNode* root) {
-        if(root==NULL){
-            return NULL;
-        }
-        change(root);
+        helper(root);
         return root;
     }
 };
