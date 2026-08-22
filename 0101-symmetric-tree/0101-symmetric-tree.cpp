@@ -1,16 +1,3 @@
-
-
-/*
-if(root1->val == root2->val){
-            return true;
-        }
-        else{
-            return false;
-        }
-*/
-
-
-
 class Solution {
 public:
     bool symmetric(TreeNode* root1, TreeNode* root2){
