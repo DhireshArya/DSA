@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/DhireshArya/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhireshArya/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Backtracking
 |  |
