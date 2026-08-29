@@ -1,101 +1,52 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void leftSubtree(TreeNode* root,
-                 vector<pair<int, pair<int,int>>> &a,
-                 pair<int, pair<int,int>> p){
-
-        if(root == NULL){
-            return;
-        }
-
-        p.first = root->val;
-        a.push_back(p);
-
-        // coordinates for left child
-        pair<int,pair<int,int>> left = p;
-        left.second.first++;
-        left.second.second--;
-
-        // coordinates for right child
-        pair<int,pair<int,int>> right = p;
-        right.second.first++;
-        right.second.second++;
-
-        leftSubtree(root->left, a, left);
-        leftSubtree(root->right, a, right);
-    }
-
-
-    void rightSubtree(TreeNode* root,
-                  vector<pair<int, pair<int,int>>> &a,
-                  pair<int, pair<int,int>> p){
-
-        if(root == NULL){
-            return;
-        }
-
-        p.first = root->val;
-        a.push_back(p);
-
-        // coordinates for left child
-        pair<int,pair<int,int>> left = p;
-        left.second.first++;
-        left.second.second--;
-
-        // coordinates for right child
-        pair<int,pair<int,int>> right = p;
-        right.second.first++;
-        right.second.second++;
-
-        rightSubtree(root->left, a, left);
-        rightSubtree(root->right, a, right);
-    }
-
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         if(root==NULL){
             return {};
         }
-
-        vector<pair<int, pair<int,int>>> a;
-
-        pair<int,pair<int,int>> rootPos = {root->val,{0,0}};
-        a.push_back(rootPos);
-
-        // Pass the correct coordinates of children
-        leftSubtree(root->left, a, {0,{1,-1}});
-        rightSubtree(root->right, a, {0,{1,1}});
-
-        sort(a.begin(),a.end(),[](auto &x, auto &y){
-
-            if(x.second.second != y.second.second)
-                return x.second.second < y.second.second;
-
-            if(x.second.first != y.second.first)
-                return x.second.first < y.second.first;
-
-            return x.first < y.first;
-        });
-
-
-        // code for finding the level of the binary tree
+        map<int, map<int, vector<int>>> nodes;
+        queue<pair<TreeNode*, pair<int, int>>>q;
         vector<vector<int>> ans;
-        vector<int> col;
+        q.push(make_pair(root, make_pair(0, 0)));
 
-        int prevCol = a[0].second.second;
+        while(!q.empty()){
+            pair<TreeNode*, pair<int, int>> temp = q.front();
+            q.pop();
+            TreeNode* frontNode = temp.first;
+            int hd = temp.second.first;
+            int lvl = temp.second.second;
 
-        for(auto &it : a){
-
-            if(it.second.second != prevCol){
-                ans.push_back(col);
-                col.clear();
-                prevCol = it.second.second;
+            nodes[hd][lvl].push_back(frontNode->val);
+            if(frontNode->left){
+                q.push(make_pair(frontNode->left, make_pair(hd-1, lvl+1)));
             }
-
-            col.push_back(it.first);
+            if(frontNode->right){
+                q.push(make_pair(frontNode->right, make_pair(hd+1, lvl+1)));
+            }
         }
 
-        ans.push_back(col);
-
+        for(auto i: nodes){
+            vector<int> a;
+            for(auto j: i.second){
+                sort(j.second.begin(), j.second.end());
+                for(auto k: j.second){
+                    a.push_back(k);
+                }
+            }
+            ans.push_back(a);
+        }
         return ans;
+
     }
 };
