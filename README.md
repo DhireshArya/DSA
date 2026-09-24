@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhireshArya/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
