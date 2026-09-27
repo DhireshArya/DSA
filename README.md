@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/DhireshArya/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
