@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/DhireshArya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DhireshArya/DSA/tree/master/0257-binary-tree-paths) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/DhireshArya/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/DhireshArya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
