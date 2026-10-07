@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhireshArya/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/DhireshArya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -121,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
