@@ -1,18 +1,28 @@
 class Solution {
 public:
-    int maximumNumberOfStringPairs(vector<string>& words) {
-        int n = words.size();
-        unordered_set<string> us;
-
+    int maximumNumberOfStringPairs(vector<string>& arr) {
+        int n = arr.size();
+        int count = 0;
+        unordered_set<string> s;
 
         for(int i=0; i<n; i++){
-            string s = words[i];
-            reverse(s.begin(), s.end());
+            s.insert(arr[i]);
+        }
 
-            if(us.find(s) == us.end()){
-                us.insert(words[i]);
+        for(int i=0; i<n; i++){
+            string rev = arr[i];
+            reverse(rev.begin(), rev.end());
+
+            if(arr[i]==rev){
+                continue;
+            }
+
+            if(s.find(rev) != s.end()){
+                count++;
+                s.erase(arr[i]);
             }
         }
-        return n-us.size();
+
+        return count;
     }
 };
