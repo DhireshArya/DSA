@@ -1,35 +1,37 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int n = s.size();
-        int m = t.size();
-
-        if(n!=m){
+        if(s.length() != t.length()){
             return false;
         }
-        else{
-            // for the first string
-            int arr1[26] = {0};
-            for(int i=0; i<n; i++){
-                int b = s[i]-'a';
-                arr1[b] = arr1[b] + 1;
-            }
 
-            // for the second string
-            int arr2[26] = {0};
-            for(int i=0; i<m; i++){
-                int b = t[i]-'a';
-                arr2[b] = arr2[b] + 1;
-            }
+        unordered_map<char,int> map1;
+        unordered_map<char, int> map2;
 
-            for(int i=0; i<26; i++){
-                if(arr1[i]!=arr2[i]){
+        for(int i=0; i<s.length(); i++){
+            map1[s[i]]++;
+        }
+
+        for(int i=0; i<t.length(); i++){
+            map2[t[i]]++;
+        }
+
+        for(auto x: map1){
+            char ch1 = x.first;
+            int freq1 = x.second;
+
+            if(map2.find(ch1) != map2.end()){
+                int freq2 = map2[ch1];
+                if(freq1 != freq2){
                     return false;
                 }
             }
-
-            return true;
+            else{
+                return false;
+            }
         }
-        
+
+        return true;
+
     }
 };
