@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/DhireshArya/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhireshArya/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DhireshArya/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/DhireshArya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1207-unique-number-of-occurrences](https://github.com/DhireshArya/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DhireshArya/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
