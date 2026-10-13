@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/DhireshArya/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhireshArya/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Bit Manipulation
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
