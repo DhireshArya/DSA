@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/DhireshArya/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhireshArya/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhireshArya/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DhireshArya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -139,9 +142,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DhireshArya/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
