@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DhireshArya/DSA/tree/master/0069-sqrtx) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
@@ -167,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DhireshArya/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DhireshArya/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
