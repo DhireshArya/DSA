@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DhireshArya/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/DhireshArya/DSA/tree/master/0367-valid-perfect-square) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhireshArya/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhireshArya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DhireshArya/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/DhireshArya/DSA/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
