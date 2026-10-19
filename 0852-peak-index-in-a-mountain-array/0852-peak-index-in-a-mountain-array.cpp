@@ -14,7 +14,7 @@ public:
             else if(mid+1<n && arr[mid]<arr[mid+1]){
                 start=mid+1;
             }
-            else{
+            else if(mid-1>=0 && arr[mid]<arr[mid-1]){
                 end=mid-1;
             }
         }
