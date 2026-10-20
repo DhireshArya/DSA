@@ -6,7 +6,6 @@ public:
         int ans = INT_MAX;
 
 
-
         while(low<=high){
             int mid = low + (high-low)/2;
 
