@@ -10,8 +10,7 @@ public:
             if(nums[mid]==target){
                 return mid;
             }
-            
-            if(nums[mid]>=nums[start]){    // left part sorted
+            else if(nums[mid]>=nums[start]){    // left part sorted
                 if(target>=nums[start] && target<nums[mid]){
                     end = mid-1;
                 }
