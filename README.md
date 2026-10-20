@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DhireshArya/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhireshArya/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/DhireshArya/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DhireshArya/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/DhireshArya/DSA/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhireshArya/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/DhireshArya/DSA/tree/master/1095-find-in-mountain-array) |
