@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/DhireshArya/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DhireshArya/DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DhireshArya/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhireshArya/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
