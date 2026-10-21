@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DhireshArya/DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhireshArya/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1095-find-in-mountain-array](https://github.com/DhireshArya/DSA/tree/master/1095-find-in-mountain-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/DhireshArya/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DhireshArya/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/DhireshArya/DSA/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhireshArya/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/DhireshArya/DSA/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
@@ -217,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/DhireshArya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhireshArya/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhireshArya/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
