@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhireshArya/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DhireshArya/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DhireshArya/DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhireshArya/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/DhireshArya/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DhireshArya/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/DhireshArya/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/DhireshArya/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhireshArya/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DhireshArya/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DhireshArya/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhireshArya/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
