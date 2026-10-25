@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/DhireshArya/DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/DhireshArya/DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/DhireshArya/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhireshArya/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/DhireshArya/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhireshArya/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/DhireshArya/DSA/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/DhireshArya/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
